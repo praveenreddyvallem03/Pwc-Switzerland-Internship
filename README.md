@@ -8,7 +8,7 @@ KPIs include:
 - Overall calls answered/abandoned
 - Calls by time
 - Agent’s performance quadrant
-  <img src="C:\Users\prave.PRAVEENREDDY.000\Downloads\Dashboard Images\1Call_Center_Analysis.png"
+  <img src="Dashboard Images/1Call_Center_Analysis.png"
      alt="Dashboard"
      style="float: left; margin-right: 20px;" />
   
